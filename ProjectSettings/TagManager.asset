@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Dostlar
+  - "D\xFC\u015Fmanlar"
+  - "Dostlar\u0131nMermileri"
+  - "D\xFC\u015Fmanlar\u0131nMermileri"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Geminin Mermileri
+    uniqueID: 716658315
+    locked: 0
+  - name: "D\xFC\u015Fman Mermileri"
+    uniqueID: 336924419
+    locked: 0
+  - name: Gemi
+    uniqueID: 1645085995
+    locked: 0
+  - name: "D\xFC\u015Fman"
+    uniqueID: 2482787793
+    locked: 0
